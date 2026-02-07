@@ -1,3 +1,5 @@
 # Big data (local only)
 data/raw/
 data/processed/
+__pycache__/
+*.pyc
