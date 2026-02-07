@@ -16,8 +16,6 @@ Projekt został zaimplementowany w języku Python z wykorzystaniem bibliotek do 
 
 ## 2. Realizacja Wymagań
 
-Projekt spełnia wszystkie wymagania postawione w zadaniu zaliczeniowym.
-
 W pierwszym etapie dane są wczytywane z pliku CSV znajdującego się w katalogu `data/raw`. Następnie wykonywana jest wstępna analiza poprawności danych.
 
 Kolejnym krokiem jest przetwarzanie danych, obejmujące:
