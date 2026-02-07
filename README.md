@@ -75,7 +75,7 @@ Wyniki zapisywane są w pliku `reports/results.txt`.
 
 Projekt zawiera testy jednostkowe w katalogu `tests`.
 
-Testy sprawdzają poprawność:
+Testy sprawdzają poprawpython ność:
 
 - wczytywania danych,
 - przetwarzania danych,
