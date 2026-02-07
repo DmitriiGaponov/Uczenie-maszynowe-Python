@@ -1,15 +1,3 @@
 # Big data (local only)
 data/raw/
 data/processed/
-
-# Python cache
-__pycache__/
-*.pyc
-
-# Virtual env
-.venv/
-env/
-
-# OS
-.DS_Store
-Thumbs.db

@@ -1,6 +1,6 @@
 # Projekt Zaliczeniowy: Wykrywanie Oszustw Finansowych (Fraud Detection)
 
-Autor: [Twoje imię i nazwisko]
+Autor: Dmitrii Gaponov
 
 ---
 
@@ -102,6 +102,8 @@ Modele wykazują wysoką skuteczność w wykrywaniu oszustw, jednak ze względu 
 Uzyskane wyniki potwierdzają skuteczność zastosowanego podejścia w identyfikacji podejrzanych transakcji finansowych.
 
 ## 7. Uruchomienie projektu
+
+Instalacja data/raw/fraud.csv: https://www.kaggle.com/datasets/ealaxi/paysim1
 
 Instalacja zależności: pip install -r requirements.txt
 

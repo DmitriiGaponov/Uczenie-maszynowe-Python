@@ -87,7 +87,7 @@ class FraudModel:
                     )
                 )
 
-                f.write("\n-------\n\n")
+                f.write("\n----------------------\n\n")
 
 
                 # Macierz pomyłek
@@ -113,7 +113,9 @@ class FraudModel:
         print("Zapisano raport:", self.report_path)
 
 
+    # ============================
     # Confusion Matrix
+    # ============================
     def plot_confusion_matrix(self, y_true, y_pred, name):
 
         cm = confusion_matrix(y_true, y_pred)
@@ -139,7 +141,9 @@ class FraudModel:
         print("Zapisano:", path)
 
 
+    # ============================
     # Precision Recall Curve
+    # ============================
     def plot_pr_curve(self, y_true, y_scores, name):
 
         precision, recall, _ = precision_recall_curve(
